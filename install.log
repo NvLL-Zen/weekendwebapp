@@ -1,0 +1,12 @@
+[21:26:13 2024-01-06] FETCHING Version 2.29.1
+[21:26:13 2024-01-06] CREATING /home/nvll/.spicetify
+[21:26:13 2024-01-06] DOWNLOADING https://github.com/spicetify/spicetify-cli/releases/download/v2.29.1/spicetify-2.29.1-linux-amd64.tar.gz
+[21:26:30 2024-01-06] EXTRACTING /home/nvll/.spicetify/spicetify.tar.gz
+[21:26:30 2024-01-06] SETTING EXECUTABLE PERMISSIONS TO /home/nvll/.spicetify/spicetify
+[21:26:30 2024-01-06] REMOVING /home/nvll/.spicetify/spicetify.tar.gz
+[21:26:30 2024-01-06] APPENDING /home/nvll/.spicetify to PATH in /home/nvll/.bashrc
+[21:26:30 2024-01-06] Restart your shell to have spicetify in your PATH.
+[21:26:30 2024-01-06] APPENDING /home/nvll/.spicetify to PATH in /home/nvll/.bash_profile
+[21:26:30 2024-01-06] Restart your shell to have spicetify in your PATH.
+[21:26:30 2024-01-06] spicetify v2.29.1 was installed successfully to /home/nvll/.spicetify
+[21:26:30 2024-01-06] Run 'spicetify --help' to get started
